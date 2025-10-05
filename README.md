@@ -4,6 +4,12 @@ Este projeto é uma aplicação fullstack desenvolvida como teste para a vaga de
 A aplicação gerencia **vagas de emprego** e **candidatos**, utilizando **NestJS** no backend e **Next.js** no frontend, com banco de dados **MongoDB**.  
 Toda a aplicação está configurada para rodar via **Docker Compose**.
 
+> Tempo gasto no desenvolvimento: aproximadamente **6 horas**  
+> Login de teste: **admin@example.com**  
+> Senha de teste: **123456**
+> URL do frontend: https://zoological-mindfulness-production.up.railway.app
+> URL do backend: https://teste-peixe-30-production.up.railway.app
+
 ---
 
 ## 🚀 Tecnologias
@@ -119,5 +125,6 @@ cd frontend
 npm install
 npm run dev
 ```
+
 
 
