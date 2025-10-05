@@ -26,6 +26,11 @@ Toda a aplicação está configurada para rodar via **Docker Compose**.
 
 ## 🐳 Rodando com Docker
 
+Clone o repositório com 
+```bash
+git clone https://github.com/Fabiusmaia/teste-peixe-30.git
+```
+
 No diretório raiz do projeto, execute:
 
 ```bash
@@ -114,4 +119,5 @@ cd frontend
 npm install
 npm run dev
 ```
+
 
