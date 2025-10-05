@@ -1,0 +1,651 @@
+[
+  {
+    "name": "Milena Nogueira",
+    "email": "milena.nogueira@email.com",
+    "skills": [
+      "ElasticSearch",
+      "Cypress",
+      "TypeScript",
+      "MongoDB",
+      "AWS"
+    ],
+    "experienceYears": 3
+  },
+  {
+    "name": "Caio Novaes",
+    "email": "caio.novaes@exemplo.com.br",
+    "skills": [
+      "JavaScript",
+      "Cypress",
+      "Redis"
+    ],
+    "experienceYears": 3
+  },
+  {
+    "name": "Zeca Cardoso",
+    "email": "zeca.cardoso@provedor.com",
+    "skills": [
+      "Node.js",
+      "Next.js",
+      "JavaScript"
+    ],
+    "experienceYears": 15
+  },
+  {
+    "name": "Bianca Domingues",
+    "email": "bianca.domingues@provedor.com",
+    "skills": [
+      "Microservices",
+      "AWS",
+      "React Native",
+      "React"
+    ],
+    "experienceYears": 10
+  },
+  {
+    "name": "Zeca Xavier",
+    "email": "zeca.xavier@mailteste.com",
+    "skills": [
+      "PostgreSQL",
+      "Docker",
+      "NestJS"
+    ],
+    "experienceYears": 5
+  },
+  {
+    "name": "Flávia Dias",
+    "email": "flvia.dias@provedor.com",
+    "skills": [
+      "NestJS",
+      "Node.js",
+      "Next.js"
+    ],
+    "experienceYears": 11
+  },
+  {
+    "name": "Priscila Peixoto",
+    "email": "priscila.peixoto@email.com",
+    "skills": [
+      "CI/CD",
+      "Kubernetes",
+      "React"
+    ],
+    "experienceYears": 1
+  },
+  {
+    "name": "Valentina Uchoa",
+    "email": "valentina.uchoa@provedor.com",
+    "skills": [
+      "Kubernetes",
+      "Redis",
+      "React Native"
+    ],
+    "experienceYears": 14
+  },
+  {
+    "name": "Noah Carvalho",
+    "email": "noah.carvalho@provedor.com",
+    "skills": [
+      "Microservices",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "experienceYears": 7
+  },
+  {
+    "name": "Eduarda Moura",
+    "email": "eduarda.moura@mailteste.com",
+    "skills": [
+      "JavaScript",
+      "Redis",
+      "Microservices"
+    ],
+    "experienceYears": 10
+  },
+  {
+    "name": "Vitor Sales",
+    "email": "vitor.sales@provedor.com",
+    "skills": [
+      "CI/CD",
+      "Express",
+      "AWS"
+    ],
+    "experienceYears": 8
+  },
+  {
+    "name": "Flávia Teixeira",
+    "email": "flvia.teixeira@mailteste.com",
+    "skills": [
+      "Next.js",
+      "PostgreSQL",
+      "Kubernetes",
+      "Redis"
+    ],
+    "experienceYears": 13
+  },
+  {
+    "name": "Rafael Uchoa",
+    "email": "rafael.uchoa@email.com",
+    "skills": [
+      "Kubernetes",
+      "Jest",
+      "React",
+      "PostgreSQL"
+    ],
+    "experienceYears": 2
+  },
+  {
+    "name": "Paulo Moreira",
+    "email": "paulo.moreira@provedor.com",
+    "skills": [
+      "JavaScript",
+      "Docker",
+      "Kubernetes"
+    ],
+    "experienceYears": 5
+  },
+  {
+    "name": "Kaio Sales",
+    "email": "kaio.sales@provedor.com",
+    "skills": [
+      "Express",
+      "Kubernetes",
+      "ElasticSearch"
+    ],
+    "experienceYears": 11
+  },
+  {
+    "name": "Valentina Batista",
+    "email": "valentina.batista@provedor.com",
+    "skills": [
+      "GraphQL",
+      "ElasticSearch",
+      "Kubernetes"
+    ],
+    "experienceYears": 10
+  },
+  {
+    "name": "Gustavo Correia",
+    "email": "gustavo.correia@exemplo.com.br",
+    "skills": [
+      "Next.js",
+      "Node.js",
+      "AWS",
+      "Docker"
+    ],
+    "experienceYears": 7
+  },
+  {
+    "name": "Talita Lima",
+    "email": "talita.lima@exemplo.com.br",
+    "skills": [
+      "MongoDB",
+      "CI/CD",
+      "Express",
+      "Docker"
+    ],
+    "experienceYears": 7
+  },
+  {
+    "name": "Priscila Prado",
+    "email": "priscila.prado@email.com",
+    "skills": [
+      "React Native",
+      "NestJS",
+      "React",
+      "GraphQL"
+    ],
+    "experienceYears": 4
+  },
+  {
+    "name": "Davi Silva",
+    "email": "davi.silva@mailteste.com",
+    "skills": [
+      "TypeScript",
+      "Next.js",
+      "MongoDB"
+    ],
+    "experienceYears": 8
+  },
+  {
+    "name": "Zeca Gonçalves",
+    "email": "zeca.gonalves@exemplo.com.br",
+    "skills": [
+      "Negociação",
+      "Gestão de Riscos",
+      "Indicadores (KPIs)",
+      "Kanban"
+    ],
+    "experienceYears": 9
+  },
+  {
+    "name": "Lucas Zanetti",
+    "email": "lucas.zanetti@mailteste.com",
+    "skills": [
+      "Financeiro",
+      "Gestão de Projetos",
+      "Excel Avançado"
+    ],
+    "experienceYears": 7
+  },
+  {
+    "name": "Marcelo Domingues",
+    "email": "marcelo.domingues@mailteste.com",
+    "skills": [
+      "Planejamento Estratégico",
+      "Scrum",
+      "OKRs",
+      "Excel Avançado",
+      "Compliance"
+    ],
+    "experienceYears": 8
+  },
+  {
+    "name": "Isabela Araújo",
+    "email": "isabela.arajo@exemplo.com.br",
+    "skills": [
+      "Logística",
+      "Indicadores (KPIs)",
+      "Excel Avançado",
+      "Compliance",
+      "OKRs"
+    ],
+    "experienceYears": 4
+  },
+  {
+    "name": "Valentina Klein",
+    "email": "valentina.klein@mailteste.com",
+    "skills": [
+      "Gestão de Riscos",
+      "Logística",
+      "Planejamento Estratégico"
+    ],
+    "experienceYears": 11
+  },
+  {
+    "name": "Bianca Santos",
+    "email": "bianca.santos@exemplo.com.br",
+    "skills": [
+      "Logística",
+      "OKRs",
+      "Planejamento Estratégico"
+    ],
+    "experienceYears": 14
+  },
+  {
+    "name": "Flávia Moura",
+    "email": "flvia.moura@email.com",
+    "skills": [
+      "Compliance",
+      "Power BI",
+      "Kanban",
+      "Negociação"
+    ],
+    "experienceYears": 10
+  },
+  {
+    "name": "Daniela Nogueira",
+    "email": "daniela.nogueira@provedor.com",
+    "skills": [
+      "Financeiro",
+      "Análise de Dados",
+      "Gestão de Pessoas",
+      "Planejamento Estratégico"
+    ],
+    "experienceYears": 10
+  },
+  {
+    "name": "Gustavo Henrique",
+    "email": "gustavo.henrique@provedor.com",
+    "skills": [
+      "Gestão de Projetos",
+      "Financeiro",
+      "Negociação"
+    ],
+    "experienceYears": 2
+  },
+  {
+    "name": "Samuel Castro",
+    "email": "samuel.castro@exemplo.com.br",
+    "skills": [
+      "Análise de Dados",
+      "Compliance",
+      "Planejamento Estratégico",
+      "Gestão de Pessoas",
+      "Excel Avançado"
+    ],
+    "experienceYears": 14
+  },
+  {
+    "name": "Samuel Esteves",
+    "email": "samuel.esteves@mailteste.com",
+    "skills": [
+      "Indicadores (KPIs)",
+      "Compras",
+      "Compliance",
+      "Kanban",
+      "OKRs"
+    ],
+    "experienceYears": 15
+  },
+  {
+    "name": "Beatriz Rocha",
+    "email": "beatriz.rocha@provedor.com",
+    "skills": [
+      "Negociação",
+      "Compras",
+      "Gestão de Riscos",
+      "Processos (BPM)"
+    ],
+    "experienceYears": 3
+  },
+  {
+    "name": "Rodrigo Zanetti",
+    "email": "rodrigo.zanetti@mailteste.com",
+    "skills": [
+      "Processos (BPM)",
+      "Análise de Dados",
+      "Compliance",
+      "Financeiro",
+      "Kanban"
+    ],
+    "experienceYears": 0
+  },
+  {
+    "name": "Tiago Jesus",
+    "email": "tiago.jesus@provedor.com",
+    "skills": [
+      "Financeiro",
+      "Kanban",
+      "Processos (BPM)",
+      "Scrum",
+      "Controladoria"
+    ],
+    "experienceYears": 11
+  },
+  {
+    "name": "Samuel Cavalcanti",
+    "email": "samuel.cavalcanti@provedor.com",
+    "skills": [
+      "Gestão de Pessoas",
+      "Planejamento Estratégico",
+      "Power BI",
+      "Compras",
+      "Compliance"
+    ],
+    "experienceYears": 13
+  },
+  {
+    "name": "Rafael Castro",
+    "email": "rafael.castro@mailteste.com",
+    "skills": [
+      "OKRs",
+      "Excel Avançado",
+      "Análise de Dados"
+    ],
+    "experienceYears": 5
+  },
+  {
+    "name": "Queila Santana",
+    "email": "queila.santana@exemplo.com.br",
+    "skills": [
+      "Compras",
+      "Processos (BPM)",
+      "Negociação",
+      "Planejamento Estratégico",
+      "Gestão de Pessoas"
+    ],
+    "experienceYears": 1
+  },
+  {
+    "name": "Pietra Azevedo",
+    "email": "pietra.azevedo@mailteste.com",
+    "skills": [
+      "Negociação",
+      "Excel Avançado",
+      "Scrum"
+    ],
+    "experienceYears": 12
+  },
+  {
+    "name": "Daniela Farias",
+    "email": "daniela.farias@mailteste.com",
+    "skills": [
+      "Análise de Dados",
+      "Excel Avançado",
+      "Kanban",
+      "Scrum",
+      "OKRs"
+    ],
+    "experienceYears": 10
+  },
+  {
+    "name": "Tales Azevedo",
+    "email": "tales.azevedo@mailteste.com",
+    "skills": [
+      "Scrum",
+      "Compliance",
+      "Gestão de Projetos",
+      "Logística",
+      "Excel Avançado"
+    ],
+    "experienceYears": 4
+  },
+  {
+    "name": "Ulisses Azevedo",
+    "email": "ulisses.azevedo@provedor.com",
+    "skills": [
+      "Inside Sales",
+      "Fechamento",
+      "Funil de Vendas"
+    ],
+    "experienceYears": 14
+  },
+  {
+    "name": "Igor Oliveira",
+    "email": "igor.oliveira@mailteste.com",
+    "skills": [
+      "Pré-vendas (SDR)",
+      "Apresentações",
+      "Demo Técnica",
+      "Prospecção",
+      "CRM"
+    ],
+    "experienceYears": 1
+  },
+  {
+    "name": "Nicolas Pimentel",
+    "email": "nicolas.pimentel@email.com",
+    "skills": [
+      "Prospecção",
+      "Demo Técnica",
+      "CRM"
+    ],
+    "experienceYears": 4
+  },
+  {
+    "name": "Pietra Pereira",
+    "email": "pietra.pereira@mailteste.com",
+    "skills": [
+      "Inbound Marketing",
+      "Apresentações",
+      "Funil de Vendas",
+      "Gestão de Carteira"
+    ],
+    "experienceYears": 12
+  },
+  {
+    "name": "Rayane Moreira",
+    "email": "rayane.moreira@mailteste.com",
+    "skills": [
+      "Apresentações",
+      "Negociação Comercial",
+      "Prospecção",
+      "CRM"
+    ],
+    "experienceYears": 10
+  },
+  {
+    "name": "Eduarda Azevedo",
+    "email": "eduarda.azevedo@email.com",
+    "skills": [
+      "Inbound Marketing",
+      "Demo Técnica",
+      "Apresentações",
+      "Outbound"
+    ],
+    "experienceYears": 1
+  },
+  {
+    "name": "Bianca Ferraz",
+    "email": "bianca.ferraz@mailteste.com",
+    "skills": [
+      "Atendimento ao Cliente",
+      "Funil de Vendas",
+      "Fechamento",
+      "Pré-vendas (SDR)"
+    ],
+    "experienceYears": 14
+  },
+  {
+    "name": "Milena Cardoso",
+    "email": "milena.cardoso@exemplo.com.br",
+    "skills": [
+      "Pré-vendas (SDR)",
+      "Cross-sell/Up-sell",
+      "Apresentações"
+    ],
+    "experienceYears": 10
+  },
+  {
+    "name": "Bianca Pereira",
+    "email": "bianca.pereira@provedor.com",
+    "skills": [
+      "Prospecção",
+      "Demo Técnica",
+      "Gestão de Carteira",
+      "Apresentações",
+      "Outbound"
+    ],
+    "experienceYears": 4
+  },
+  {
+    "name": "Bianca Araújo",
+    "email": "bianca.arajo@mailteste.com",
+    "skills": [
+      "Pós-venda",
+      "Outbound",
+      "Demo Técnica"
+    ],
+    "experienceYears": 12
+  },
+  {
+    "name": "Milena Moreira",
+    "email": "milena.moreira@provedor.com",
+    "skills": [
+      "Pré-vendas (SDR)",
+      "Prospecção",
+      "Fechamento",
+      "Outbound"
+    ],
+    "experienceYears": 1
+  },
+  {
+    "name": "Isabela Souza",
+    "email": "isabela.souza@exemplo.com.br",
+    "skills": [
+      "Outbound",
+      "Inside Sales",
+      "Gestão de Carteira"
+    ],
+    "experienceYears": 12
+  },
+  {
+    "name": "Felipe Mendes",
+    "email": "felipe.mendes@email.com",
+    "skills": [
+      "CRM",
+      "Negociação Comercial",
+      "Fechamento",
+      "Outbound"
+    ],
+    "experienceYears": 2
+  },
+  {
+    "name": "Diego Domingues",
+    "email": "diego.domingues@provedor.com",
+    "skills": [
+      "Cross-sell/Up-sell",
+      "Inbound Marketing",
+      "Gestão de Carteira",
+      "Outbound"
+    ],
+    "experienceYears": 9
+  },
+  {
+    "name": "Paulo Castro",
+    "email": "paulo.castro@provedor.com",
+    "skills": [
+      "Pré-vendas (SDR)",
+      "Inbound Marketing",
+      "Pós-venda",
+      "Outbound",
+      "CRM"
+    ],
+    "experienceYears": 13
+  },
+  {
+    "name": "Igor Rocha",
+    "email": "igor.rocha@mailteste.com",
+    "skills": [
+      "Atendimento ao Cliente",
+      "Inside Sales",
+      "Inbound Marketing"
+    ],
+    "experienceYears": 11
+  },
+  {
+    "name": "Olivia Moreira",
+    "email": "olivia.moreira@exemplo.com.br",
+    "skills": [
+      "Funil de Vendas",
+      "Inbound Marketing",
+      "Atendimento ao Cliente",
+      "Fechamento",
+      "CRM"
+    ],
+    "experienceYears": 7
+  },
+  {
+    "name": "Mateus Klein",
+    "email": "mateus.klein@email.com",
+    "skills": [
+      "CRM",
+      "Cross-sell/Up-sell",
+      "Pós-venda"
+    ],
+    "experienceYears": 0
+  },
+  {
+    "name": "Valentina Azevedo",
+    "email": "valentina.azevedo@provedor.com",
+    "skills": [
+      "Negociação Comercial",
+      "Cross-sell/Up-sell",
+      "Prospecção",
+      "Apresentações"
+    ],
+    "experienceYears": 13
+  },
+  {
+    "name": "Camila Barbosa",
+    "email": "camila.barbosa@exemplo.com.br",
+    "skills": [
+      "Cross-sell/Up-sell",
+      "Fechamento",
+      "Apresentações",
+      "Inbound Marketing"
+    ],
+    "experienceYears": 12
+  }
+]
